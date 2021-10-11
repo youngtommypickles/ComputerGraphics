@@ -1,6 +1,7 @@
 #М8О-301Б-19
 #Цыкин Иван
 #Вариант 2
+#Октайдер
 import pygame as pg #подключение нужных библиотек
 from pygame.locals import *
 
